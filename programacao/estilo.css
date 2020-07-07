@@ -15,7 +15,12 @@
     margin-top: 200px;
     padding-bottom: 8px;
     border-radius: 15px;
-    border: none;  
+    border-color: white;  
+    
+}
+
+.legendaTela{
+    margin-left: 80px;
 }
 
 .nomeLabel{
@@ -57,7 +62,7 @@
 }
 
 .fundo{
-    background-color:rgb(30,215,96);
+    
     height: 800px;
 }
 
@@ -78,13 +83,7 @@
 .iconeInstagram{
     width:40px;
     margin-top: 50px;
-    margin-left: 450px;  
-}
-
-.iconeFacebook{
-    width:40px;
-    margin-top: 50px;
-    margin-left: 30px;  
+    margin-left: 465px;  
 }
 
 .iconeLinkedin{
@@ -92,4 +91,12 @@
     margin-top: 50px;
     margin-left: 30px;  
 }
+
+
+.iconeGit{
+    width:40px;
+    margin-top: 50px;
+    margin-left: 30px;  
+}
+
 
