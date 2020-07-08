@@ -46,12 +46,15 @@
     font-family: Arial;
     margin-left: 75px;
     margin-top: 10px;
-    font-family: Arial, Helvetica, sans-serif;  
+    font-family: Arial, Helvetica, sans-serif; 
+    
 }
+
 .nomeLogin{
     font-size: 20px;
     color:white; 
 }
+
 
 .linkCadastro{
     font-size: 16px;
@@ -60,6 +63,10 @@
     margin-top: 20px;
     color:rgb(107, 102, 102);
 }
+.linkCadastro:hover {
+    color:  rgb(34, 187, 88);
+}
+
 
 .fundo{
     
@@ -83,20 +90,33 @@
 .iconeInstagram{
     width:40px;
     margin-top: 50px;
-    margin-left: 465px;  
+    margin-left: 473px;
+    position: absolute;  
+}
+.iconeInstagram:hover{
+    width: 50px;
+    
 }
 
 .iconeLinkedin{
     width:40px;
     margin-top: 50px;
-    margin-left: 30px;  
+    margin-left: 538px;
+    position: absolute;  
+}
+.iconeLinkedin:hover{
+    width: 50px;
 }
 
 
 .iconeGit{
     width:40px;
     margin-top: 50px;
-    margin-left: 30px;  
+    margin-left: 603px;
+    position: absolute;  
+}
+.iconeGit:hover{
+    width: 50px;
 }
 
 
