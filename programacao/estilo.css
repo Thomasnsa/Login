@@ -11,7 +11,7 @@
 .tela{
     width: 210px;
     background-color: rgb(255, 255, 255);
-    margin-left: 400px;
+    margin-left: 425px;
     margin-top: 200px;
     padding-bottom: 8px;
     border-radius: 15px;
@@ -47,6 +47,9 @@
     margin-top: 10px;
     font-family: Arial, Helvetica, sans-serif;   
 }
+.botao:hover{
+    background-color: rgb(34, 187, 88);
+}
 
 .nomeLogin{
     font-size: 20px;
@@ -65,7 +68,6 @@
     color:  rgb(34, 187, 88);
 }
 
-
 .fundo{
     height: 800px;
 }
@@ -75,6 +77,15 @@
     height: 100px;
     position: absolute ; left: 0px; top:0px;
     background-color: rgb(59, 59, 59);
+}
+
+.titulo{
+    color: white;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .fundoCabecalho{
@@ -87,7 +98,7 @@
 .iconeInstagram{
     width:40px;
     margin-top: 50px;
-    margin-left: 473px;
+    margin-left: 485px;
     position: absolute;  
 }
 .iconeInstagram:hover{
@@ -97,18 +108,17 @@
 .iconeLinkedin{
     width:40px;
     margin-top: 50px;
-    margin-left: 538px;
+    margin-left: 550px;
     position: absolute;  
 }
 .iconeLinkedin:hover{
     width: 50px;
 }
 
-
 .iconeGit{
     width:40px;
     margin-top: 50px;
-    margin-left: 603px;
+    margin-left: 615px;
     position: absolute;  
 }
 .iconeGit:hover{
