@@ -15,8 +15,7 @@
     margin-top: 200px;
     padding-bottom: 8px;
     border-radius: 15px;
-    border-color: white;  
-    
+    border-color: white;     
 }
 
 .legendaTela{
@@ -46,8 +45,7 @@
     font-family: Arial;
     margin-left: 75px;
     margin-top: 10px;
-    font-family: Arial, Helvetica, sans-serif; 
-    
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 .nomeLogin{
@@ -69,7 +67,6 @@
 
 
 .fundo{
-    
     height: 800px;
 }
 
@@ -94,8 +91,7 @@
     position: absolute;  
 }
 .iconeInstagram:hover{
-    width: 50px;
-    
+    width: 50px; 
 }
 
 .iconeLinkedin{
